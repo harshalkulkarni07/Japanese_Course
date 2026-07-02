@@ -1,0 +1,4 @@
+1) Hiragana : native basic alphabets (46 characters) : curved letters
+2) Katakana : 46 characters borrowed from foreign language : straight strokes and angular corners, derived from kanjis
+3) Kanji : adopted from Chinese language, they are symbols and have meaning attached to it, 110 kanji for n5
+
