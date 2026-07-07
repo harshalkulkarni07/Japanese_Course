@@ -1,0 +1,17 @@
+Counting : 
+  - Ichi : 1
+  - ni   : 2
+  - san  : 3
+  - yon  : 4
+  - go   : 5
+  - roku : 6
+  - nana : 7
+  - hachi: 8 
+  - kyuu : 9 
+  - ju   : 10
+
+11 : 10+1(juu ichi)
+12 : 10+2 Juu ni
+20 : 2 10 niJuu, 21 : Nijuu(20) ichi(1)
+30 : 3 10 san ju
+50 : 5 10 go Juu
